@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "name": "Cristian Update",
+      "company": "Google",
+      "email": "correo@gmail.com",
+      "phone": "3132331231",
+      "notes": "Opcionales",
+      "id": 1
+    },
+    {
+      "name": "Jose",
+      "company": "GYM",
+      "email": "corre23@gmail.com",
+      "phone": "3132331222",
+      "notes": "Laburo",
+      "id": 2
+    }
+  ]
+}
